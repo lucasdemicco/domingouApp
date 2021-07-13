@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "611535646168",
+    "project_id": "domingouapp",
+    "storage_bucket": "domingouapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611535646168:android:fb5038365dffafd3c5d6ad",
+        "android_client_info": {
+          "package_name": "com.lucas.domingou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611535646168-6mvirul3l8kgc9u4lnl4bmlapreek84i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lucas.domingou",
+            "certificate_hash": "796bc2a0129dc7fabdeefdcc9c89dd8b61c0073b"
+          }
+        },
+        {
+          "client_id": "611535646168-77m19ab91eo1j2fh74pa3510cqfmemrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIVoxj2ppbWKzDSj8qd0brG57BuoU0QE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611535646168-77m19ab91eo1j2fh74pa3510cqfmemrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
